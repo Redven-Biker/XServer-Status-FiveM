@@ -1,0 +1,68 @@
+.space {
+  padding-bottom: 28%;
+}
+
+.space-input {
+  padding-bottom: 1%;
+}
+
+#input-connect {
+  width: 40%;
+}
+
+.img {
+  padding-right: 1%;
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 2px solid #292929;
+  text-align: left;
+  padding: 8px;
+}
+
+#myInput {
+  width: 20%;
+}
+
+#color-text {
+  color: white;
+}
+
+.box {
+  background-color: #34495e;
+  width: 100%;
+  border-radius: 15px 15px 15px 15px;
+  -moz-border-radius: 15px 15px 15px 15px;
+  -webkit-border-radius: 15px 15px 15px 15px;
+
+  padding: 30px;
+  margin: 18px;
+  text-align: center;
+}
+
+.position-box {
+  width: 50%;
+  color: white;
+}
+
+.space-delete {
+  padding-bottom: 2%;
+}
+
+#text-add-produit {
+  font-size: 18px;
+}
+
+.space-grid {
+  padding-bottom: 2%;
+}
+
+tr:nth-child(even) {
+  background-color: #3d3d3d;
